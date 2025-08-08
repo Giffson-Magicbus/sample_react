@@ -1,5 +1,6 @@
 {
   "name": "my-app",
+  "homepage": "https://github.com/Giffson-Magicbus/sample_react",
   "private": true,
   "version": "0.0.0",
   "type": "module",
